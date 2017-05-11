@@ -1,1 +1,1 @@
-# algotrading
+# algorithm trading
